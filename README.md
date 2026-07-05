@@ -27,7 +27,3 @@ The project demonstrates and compares three core search algorithms:
 ### Prerequisites
 Make sure you have Python 3.x installed on your system.
 
-### Running the Application
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/bishoynabilattia/WordQuest-AI.git](https://github.com/YOUR_USERNAME/WordQuest-AI.git)
